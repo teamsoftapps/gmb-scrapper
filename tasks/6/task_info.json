@@ -1,0 +1,18 @@
+{
+    "start_time": "1:08:41, 23 June 2023",
+    "end_time": "1:10:36, 23 June 2023",
+    "duration": "1 minute 55 seconds",
+    "ip_details": {
+        "ip": "144.48.38.148",
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "AU",
+        "loc": "-37.8183,144.9445",
+        "org": "AS136557 Host Universal Pty Ltd",
+        "postal": "3008",
+        "timezone": "Australia/Melbourne"
+    },
+    "last_url": "https://www.google.com/maps/place/Cleaners+of+America/@30.5242665,-97.6387546,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d111ed7b4aa3:0xcfe2be5bb118f37d!8m2!3d30.5242665!4d-97.6387546!16s%2Fg%2F11h_1zlnwk?authuser=0&hl=en&entry=ttu",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.37"
+}

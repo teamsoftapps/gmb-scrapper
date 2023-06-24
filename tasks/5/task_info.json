@@ -1,0 +1,18 @@
+{
+    "start_time": "1:07:04, 23 June 2023",
+    "end_time": "1:08:11, 23 June 2023",
+    "duration": "1 minute 6 seconds",
+    "ip_details": {
+        "ip": "144.48.38.148",
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "AU",
+        "loc": "-37.8183,144.9445",
+        "org": "AS136557 Host Universal Pty Ltd",
+        "postal": "3008",
+        "timezone": "Australia/Melbourne"
+    },
+    "last_url": "Failed to get driver url",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+}

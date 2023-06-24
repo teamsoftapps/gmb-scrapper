@@ -1,0 +1,18 @@
+{
+    "start_time": "5:51:42, 23 June 2023",
+    "end_time": "5:52:13, 23 June 2023",
+    "duration": "31 seconds",
+    "ip_details": {
+        "ip": "144.48.38.148",
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "AU",
+        "loc": "-37.8183,144.9445",
+        "org": "AS136557 Host Universal Pty Ltd",
+        "postal": "3008",
+        "timezone": "Australia/Melbourne"
+    },
+    "last_url": "https://www.google.com/maps/place/Quality+Cleaning/@41.8892136,-84.0664997,17z/data=!3m1!4b1!4m6!3m5!1s0x883cf059a2beb86d:0x10ed5d6743565a5c!8m2!3d41.8892136!4d-84.0664997!16s%2Fg%2F1ts3g8p4?authuser=0&hl=en&entry=ttu",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896 Safari/537.36"
+}

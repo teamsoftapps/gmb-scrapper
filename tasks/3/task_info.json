@@ -1,0 +1,18 @@
+{
+    "start_time": ":44:56, 23 June 2023",
+    "end_time": ":57:49, 23 June 2023",
+    "duration": "12 minutes 52 seconds",
+    "ip_details": {
+        "ip": "144.48.38.148",
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "AU",
+        "loc": "-37.8183,144.9445",
+        "org": "AS136557 Host Universal Pty Ltd",
+        "postal": "3008",
+        "timezone": "Australia/Melbourne"
+    },
+    "last_url": "https://www.google.com/maps/place/Cleaning+Companies+Melbourne/@-37.8153699,144.9618624,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad643afb049263d:0x7fb6360879e3f125!8m2!3d-37.8153699!4d144.9618624!16s%2Fg%2F11fnh6h1m2?authuser=0&hl=en&entry=ttu",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.37"
+}

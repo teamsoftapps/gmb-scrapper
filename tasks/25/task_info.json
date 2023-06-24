@@ -1,0 +1,18 @@
+{
+    "start_time": "6:10:45, 23 June 2023",
+    "end_time": "6:14:53, 23 June 2023",
+    "duration": "4 minutes 7 seconds",
+    "ip_details": {
+        "ip": "144.48.38.148",
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "AU",
+        "loc": "-37.8183,144.9445",
+        "org": "AS136557 Host Universal Pty Ltd",
+        "postal": "3008",
+        "timezone": "Australia/Melbourne"
+    },
+    "last_url": "https://www.google.com/maps/place/Imperial+Cleaning+Company/@40.9095003,-74.4993602,17z/data=!3m1!4b1!4m6!3m5!1s0x89c3097e276aaaab:0xe596f1df9589c453!8m2!3d40.9095003!4d-74.4993602!16s%2Fg%2F11h0zflpqm?authuser=0&hl=en&entry=ttu",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36"
+}

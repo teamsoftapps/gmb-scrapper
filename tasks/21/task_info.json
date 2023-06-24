@@ -1,0 +1,18 @@
+{
+    "start_time": "5:59:51, 23 June 2023",
+    "end_time": "6:00:13, 23 June 2023",
+    "duration": "21 seconds",
+    "ip_details": {
+        "ip": "144.48.38.148",
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "AU",
+        "loc": "-37.8183,144.9445",
+        "org": "AS136557 Host Universal Pty Ltd",
+        "postal": "3008",
+        "timezone": "Australia/Melbourne"
+    },
+    "last_url": "https://www.google.com/maps/place/Merry+Maids+of+Oklahoma+City/@35.3513729,-97.5359695,10z/data=!3m1!4b1!4m6!3m5!1s0x87b215878ecaae13:0xdc0012b91da53207!8m2!3d35.351373!4d-97.5359695!16s%2Fg%2F1tls3bn_?authuser=0&hl=en&entry=ttu",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+}

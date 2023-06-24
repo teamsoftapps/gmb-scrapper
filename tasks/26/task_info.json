@@ -1,0 +1,18 @@
+{
+    "start_time": "5:15:43, 24 June 2023",
+    "end_time": "5:15:59, 24 June 2023",
+    "duration": "15 seconds",
+    "ip_details": {
+        "ip": "39.50.209.23",
+        "city": "Karachi",
+        "region": "Sindh",
+        "country": "PK",
+        "loc": "24.8608,67.0104",
+        "org": "AS17557 Pakistan Telecommunication Company Limited",
+        "postal": "74700",
+        "timezone": "Asia/Karachi"
+    },
+    "last_url": "https://www.google.com/maps/place/Maid+Bright/@38.9648538,-77.3821348,17z/data=!3m1!4b1!4m6!3m5!1s0x89b639c3c1372433:0xe73c522784c3a1d!8m2!3d38.9648538!4d-77.3821348!16s%2Fg%2F1tlbvlmh?authuser=0&hl=en&entry=ttu",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+}

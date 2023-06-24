@@ -1,0 +1,18 @@
+{
+    "start_time": "5:18:00, 24 June 2023",
+    "end_time": "5:20:13, 24 June 2023",
+    "duration": "2 minutes 12 seconds",
+    "ip_details": {
+        "ip": "39.50.209.23",
+        "city": "Karachi",
+        "region": "Sindh",
+        "country": "PK",
+        "loc": "24.8608,67.0104",
+        "org": "AS17557 Pakistan Telecommunication Company Limited",
+        "postal": "74700",
+        "timezone": "Asia/Karachi"
+    },
+    "last_url": "Failed to get driver url",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.37"
+}
